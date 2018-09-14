@@ -1,8 +1,8 @@
 <?php 
-	$ime = $_POST['name'];
+	$name = $_POST['ime'];
 	$email = $_POST['email'];
-	$message = $_POST['message'];
-	$formcontent="Име: $ime \nE-адреса: $email\nПорука: $message\n";
+	$message = $_POST['poruka'];
+	$formcontent="Име: $name \nE-адреса: $email\nПорука: $message\n";
 	$recipient = "danijelj2001.xda@gmail.com";
 	$subject = "Питање/Сугестија | Техничка школа";
 	$headers = 'From: no-reply@portfolio.edu.rs' . "\r\n" .
