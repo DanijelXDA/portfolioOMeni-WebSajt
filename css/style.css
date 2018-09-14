@@ -2,11 +2,9 @@
 
     [Master Stylesheet]
 
-    Theme Name: Alpha | Personal vCard Template
+    Theme Name: Alpha
     Version: 1.0
     Last change: 17/08/2017
-    Developer: LionCoders - http://www.lion-coders.com
-
 -------------------------------------------------------------------*/
 
 
@@ -2733,6 +2731,9 @@ h4.package {
     .comment .col-sm-10 {
         width: 83.3333%;
     }
+	#mapa {
+		display: none;
+	}
 }
 
 @media (max-width:375px) {
