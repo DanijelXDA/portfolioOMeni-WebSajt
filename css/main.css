@@ -110,10 +110,6 @@
 }
 
 :root {
-  --preloader-image: url('../img/general/loader.svg');
-}
-
-:root {
   --accent-color: #FF002E;
   --bg-light-1: #f5f6f8;
   --bg-light-2: #F1F6F9;
