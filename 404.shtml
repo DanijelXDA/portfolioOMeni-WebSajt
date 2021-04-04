@@ -22,7 +22,7 @@
   <title>Danijel Jovanović | Error 404</title>
 </head>
 
-<body class="preloader-visible" data-barba="wrapper">
+<body class="preloader-visible"="wrapper">
 
   <!-- preloader start -->
   <div class="preloader js-preloader">
@@ -45,7 +45,7 @@
   <!-- cursor end -->
 
   <!-- barba container start -->
-  <div class="barba-container" data-barba="container">
+  <div class="barba-container"="container">
 
     <!-- to-top-button start -->
     <div data-cursor class="backButton js-backButton">
@@ -63,7 +63,7 @@
         <!-- header__bar start -->
         <div class="header__bar">
           <div class="header__logo js-header-logo">
-            <a data-barba href="http://danijel.rocks">
+            <a href="http://danijel.rocks">
               <p class="text-white">Danijel Jovanović</p>
             </a>
           </div>
@@ -98,31 +98,31 @@
                   <div class="navList__wrap">
                     <ul class="navList js-navList">
                       <li>
-                        <a data-barba href="http://danijel.rocks">
+                        <a href="http://danijel.rocks">
                           Homepage
                         </a>
                       </li>
 
                       <li>
-                        <a data-barba href="http://danijel.rocks/portfolio">
+                        <a href="http://danijel.rocks/portfolio">
                           Portfolio
                         </a>
                       </li>
 
                       <li>
-                        <a data-barba href="http://danijel.rocks/about">
+                        <a href="http://danijel.rocks/about">
                           About me
                         </a>
                       </li>
 
                       <li>
-                        <a data-barba href="http://danijel.rocks/hire-me">
+                        <a href="http://danijel.rocks/hire-me">
                           Hire me
                         </a>
                       </li>
 
                       <li>
-                        <a data-barba href="http://danijel.rocks/contact">
+                        <a href="http://danijel.rocks/contact">
                           Contact
                         </a>
                       </li>
@@ -192,7 +192,7 @@
                 <p class="page-404-text leading-4xl text-light mt-24 md:mt-16">
                   The page you were looking for doesn't exist. You may have mistyped the address or the page may have been moved.
                 </p>
-                <a class="page-404-btn button -md -outline-white text-white mt-32 md:mt-20" data-barba href="http://danijel.rocks">
+                <a class="page-404-btn button -md -outline-white text-white mt-32 md:mt-20" href="http://danijel.rocks">
                   Take me home
                 </a>
               </div>
